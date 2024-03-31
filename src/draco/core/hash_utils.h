@@ -20,7 +20,7 @@
 #include <cstddef>
 #include <functional>
 
-typedef size_t unsigned int;
+typedef unsigned int size_t;
 
 namespace draco {
 
