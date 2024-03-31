@@ -20,6 +20,8 @@
 #include <cstddef>
 #include <functional>
 
+typedef size_t unsigned int;
+
 namespace draco {
 
 template <typename T1, typename T2>
